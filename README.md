@@ -1,4 +1,4 @@
-# Projeto-DIO-Binance-Criando-o-Seu-Primeiro-Token-do-Zero-nos-Padr-es-Web3
+# Projeto-DIO-Binance-Criando-o-Seu-Primeiro-Token-do-Zero-nos-Padroes-Web3
 
 :spiral_calendar: Atualizado em 3 de agosto de 2024 :heart:
 
