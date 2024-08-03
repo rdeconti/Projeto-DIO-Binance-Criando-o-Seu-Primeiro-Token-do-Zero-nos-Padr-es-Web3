@@ -20,8 +20,35 @@ Este projeto foi proposto pela Digital Innovation One
 Neste Desafio você irá criar, a partir das instruções do Instrutor Ricardo Zago, um Token do zero. Para isso, é importante que você siga o passo a passo de configuração da Wallet Metamask e do RPC info. Posteriormente, a partir do código base e das instruções dos vídeos "Configurando Metamask" e "Criando o seu Token", você irá fazer as alterações necessárias utilizando a IDE REMIX e então fazer o deploy do seu Token.
  
 ## Links úteis
-Token padrão para download (Versão 0.4.24): token_padrao.txt
-Github com Token padrão para download (Versão mais recente): https://github.com/relsi/web3-blockchain-classes/blob/main/token.sol
-https://metamask.io/​
-https://rpc.info/
-https://remix.ethereum.org/
+- Token padrão para download (Versão 0.4.24): token_padrao.txt
+- Github com Token padrão para download (Versão mais recente): https://github.com/relsi/web3-blockchain-classes/blob/main/token.sol
+- https://metamask.io/​
+- https://rpc.info/
+- https://remix.ethereum.org/
+
+## Informações adicionais
+Este repositório fornece um guia passo a passo para a criação do seu próprio token utilizando os padrões Web3. Vamos configurar a Wallet Metamask, ajustar as informações do RPC e utilizar a IDE Remix para criar o arquivo token.sol em Solidity.
+
+## Pré-requisitos
+- Metamask: Uma extensão de navegador que permite interagir com a blockchain Ethereum.
+- Remix IDE: Um ambiente de desenvolvimento integrado que permite escrever, compilar e implantar contratos inteligentes em Solidity.
+
+## Configurando a Wallet Metamask
+- Instale a extensão Metamask em seu navegador.
+- Crie uma nova conta ou importe uma existente.
+- Configure a rede RPC:
+- Clique no ícone da Metamask.
+- Selecione "Custom RPC" e insira as informações da rede que deseja usar.
+- Criando o Token em Solidity
+- Utilizaremos a IDE Remix para escrever e compilar nosso contrato inteligente em Solidity.
+
+## Passos
+- Abra a Remix IDE.
+- Crie um novo arquivo chamado token.sol.
+- Copie e cole o arquivo token.sol
+- Compile o contrato usando o compilador da Remix.
+- Implante o contrato na rede configurada na Metamask.
+
+## Conclusão
+token criado utilizando os padrões Web3
+
